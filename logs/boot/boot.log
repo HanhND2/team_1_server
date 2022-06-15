@@ -1,0 +1,9 @@
+14 Jun 2022 12:33:58,579 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1101, TCP, 1024 }
+14 Jun 2022 12:33:58,579 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1102, TCP, 1024 }
+14 Jun 2022 12:33:58,579 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
+14 Jun 2022 12:34:16,789 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1101, TCP, 1024 }
+14 Jun 2022 12:34:16,789 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1102, TCP, 1024 }
+14 Jun 2022 12:34:16,789 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
+14 Jun 2022 12:35:30,475 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1101, TCP, 1024 }
+14 Jun 2022 12:35:30,475 WARN  [main] bootLogger     - Was not able to bind socket: { 0.0.0.0:1102, TCP, 1024 }
+14 Jun 2022 12:35:30,475 ERROR [main] bootLogger     - No bound sockets! Check the boot logs for possible problems!
